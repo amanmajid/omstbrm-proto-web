@@ -17,12 +17,18 @@ content:
   slides:
   - title: Energy Watch
     content: xxx
-    align: center
+    align: left
     background:
       position: right
       color: '#666'
       brightness: 0.7
       media: energy.jpg
+    link:
+      icon: fa-browser
+      icon_pack: fas
+      text: Launch Platform
+      url: ../contact/
+  #
   - title: Basin Explorer
     content: xxx
     align: left
@@ -32,8 +38,8 @@ content:
       brightness: 0.7
       media: river.jpg
     link:
-      icon: browser
+      icon: fa-browser
       icon_pack: fas
-      text: Join Us
+      text: Launch Platform
       url: ../contact/
 ---
