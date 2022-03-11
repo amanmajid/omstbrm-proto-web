@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: Energy
 subtitle: Our work spans across the world and at multiple scales. Explore the list of current projects below.
-columns: '1'
+columns: 1
 design:
   background:
     # Name of image in `assets/media/`.
