@@ -4,21 +4,30 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: Home
+    url: home
     weight: 10
-  - name: News
-    url: post
+  - name: Data and Tools
+    url: data_and_tools
+    identifier: data_and_tools
     weight: 20
-  - name: People
-    url: people
+  - name: Energy explorer
+    url: energy_explorer
+    weight: 20
+    parent: data_and_tools
+  - name: About
+    url: about
     weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
+
+# [[main]]
+#  name = "Research"
+#  url = "research/"
+#  identifier = "research"
+#  weight = 20
+
+# # DROP DOWN MENU FOR RESEARCH THEMES
+# [[main]]
+#   name = "1. Infrastructure"
+#   url = "themes/1-infrasystems/"
+#   parent = "research"
+#   weight = 20
