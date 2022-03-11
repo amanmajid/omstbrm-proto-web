@@ -7,20 +7,21 @@ main:
   - name: Home
     url: home
     weight: 10
+  - name: Project
+    url: project
+    weight: 20
   - name: Data and Tools
-    url: data_and_tools
-    identifier: data_and_tools
+    url: data
+    identifier: data
     weight: 20
   - name: Energy
     url: energy
     weight: 20
-    identifier: energy
-    parent: data_and_tools
-  - name: Energy Watch
-    url: energy_watch
+    parent: data
+  - name: Water
+    url: water
     weight: 20
-    identifier: energy_watch
-    parent: energy
+    parent: data
   - name: About
     url: about
     weight: 30
