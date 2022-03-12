@@ -42,4 +42,18 @@ content:
       icon_pack: fas
       text: Launch Platform
       url: https://gcp-europe-west1.app.carto.com/map/21f9a73c-3573-4374-83fd-9517ac4476d2
+  #
+  - title: Population Watch
+    content: Monitoring the pulse of social trends in the Israel, Palestine and Jordan region.
+    align: left
+    background:
+      position: center
+      color: '#555'
+      brightness: 0.4
+      media: population.jpeg
+    link:
+      icon: fa-browser
+      icon_pack: fas
+      text: Launch Platform
+      url: https://gcp-europe-west1.app.carto.com/map/93b92f69-25ec-4204-b759-3c4c5843ee15
 ---
