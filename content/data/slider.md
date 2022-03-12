@@ -16,7 +16,7 @@ design:
 content:
   slides:
   - title: Energy Watch
-    content: xxx
+    content: The Energy Watch visualises electricity assets across Israel, Palestine and Jordan. It takes a transboundary systems perspective to understand regional trends, as well as identify opportunities for cross-border collaboration.
     align: left
     background:
       position: right
@@ -27,7 +27,7 @@ content:
       icon: fa-browser
       icon_pack: fas
       text: Launch Platform
-      url: ../contact/
+      url: https://gcp-europe-west1.app.carto.com/map/cacf8f5f-9e42-4130-a0b6-7b2b0c2928e9
   #
   - title: Basin Explorer
     content: xxx
