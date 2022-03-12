@@ -7,13 +7,13 @@ main:
   - name: Home
     url: 
     weight: 10
-  # - name: Project
-  #   url: project
-  #   weight: 20
+  - name: Project
+    url: project
+    weight: 20
   - name: Data and Tools
     url: data
     identifier: data
-    weight: 20
+    weight: 30
   # - name: Energy
   #   url: energy
   #   weight: 20
@@ -22,10 +22,6 @@ main:
   #   url: water
   #   weight: 20
   #   parent: data
-  - name: About
-    url: about
-    weight: 30
-
 # [[main]]
 #  name = "Research"
 #  url = "research/"
