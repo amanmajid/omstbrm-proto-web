@@ -21,7 +21,7 @@ content:
     background:
       position: right
       color: '#666'
-      brightness: 0.3
+      brightness: 0.4
       media: solar.jpg
     link:
       icon: fa-browser
@@ -35,7 +35,7 @@ content:
     background:
       position: center
       color: '#555'
-      brightness: 0.7
+      brightness: 0.4
       media: river.jpg
     link:
       icon: fa-browser

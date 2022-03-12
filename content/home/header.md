@@ -7,7 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "The Oxford Martin Programme on Transboundary Resources Management"
-subtitle: "Designed to promote practical cross-border co-operation on natural resources in the Middle East and North Africa."
+subtitle: ""
 design:
   background:
     # Name of image in `assets/media/`.
@@ -25,5 +25,3 @@ design:
 ---
 
  
-
-We are a diverse group of experts in transboundary issues. We analyse the interconnections between water, energy and climate in the MENA region and produce scenarios of future needs, trajectories for resource governance and infrastructure development.
