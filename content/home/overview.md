@@ -9,7 +9,7 @@ weight: 20  # Order that this section will appear.
 columns: '1'
 design:
   background:
-    color: 'WhiteSmoke'
+    color: 'black'
 ---
 
 ## Designed to promote practical cross-border co-operation on natural resources in the Middle East and North Africa.
