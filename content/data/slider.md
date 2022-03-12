@@ -22,7 +22,7 @@ content:
       position: right
       color: '#666'
       brightness: 0.7
-      media: energy.jpg
+      media: solar.jpg
     link:
       icon: fa-browser
       icon_pack: fas
@@ -41,5 +41,5 @@ content:
       icon: fa-browser
       icon_pack: fas
       text: Launch Platform
-      url: ../contact/
+      url: www.google.co.uk
 ---

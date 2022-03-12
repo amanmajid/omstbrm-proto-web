@@ -14,14 +14,14 @@ main:
     url: data
     identifier: data
     weight: 20
-  - name: Energy
-    url: energy
-    weight: 20
-    parent: data
-  - name: Water
-    url: water
-    weight: 20
-    parent: data
+  # - name: Energy
+  #   url: energy
+  #   weight: 20
+  #   parent: data
+  # - name: Water
+  #   url: water
+  #   weight: 20
+  #   parent: data
   - name: About
     url: about
     weight: 30
