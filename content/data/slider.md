@@ -41,5 +41,5 @@ content:
       icon: fa-browser
       icon_pack: fas
       text: Launch Platform
-      url: www.google.co.uk
+      url: https://gcp-europe-west1.app.carto.com/map/21f9a73c-3573-4374-83fd-9517ac4476d2
 ---
