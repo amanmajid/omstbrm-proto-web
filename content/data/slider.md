@@ -21,7 +21,7 @@ content:
     background:
       position: right
       color: '#666'
-      brightness: 0.7
+      brightness: 0.3
       media: solar.jpg
     link:
       icon: fa-browser
@@ -29,8 +29,8 @@ content:
       text: Launch Platform
       url: https://gcp-europe-west1.app.carto.com/map/cacf8f5f-9e42-4130-a0b6-7b2b0c2928e9
   #
-  - title: Basin Explorer
-    content: xxx
+  - title: Water Resource Watch
+    content: Monitoring the usage of critical freshwater and wastewater resources across Israel, Palestine and Jordan. Taking a transboundary approach to map pathways to a more sustainable water system.
     align: left
     background:
       position: center
